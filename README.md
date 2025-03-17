@@ -1,1 +1,3 @@
-# Teoria
+en terminos generales cuando decimos que manejamos grandes volumenes de datos cuando no.
+
+Cuando hablamos de manejar grandes volúmenes de datos, nos referimos a una cantidad de datos tan grande que supera la capacidad de procesamiento, almacenamiento o análisis de los sistemas tradicionales. Sin embargo, hay algunos puntos clave que definen cuándo realmente estamos manejando grandes volúmenes de datos y cuándo no: 1. **Volumen de Datos (Big Data):** El volumen es uno de los tres V que definen el concepto de Big Data (junto con la velocidad y la variedad). Generalmente, hablamos de grandes volúmenes de datos cuando estamos trabajando con terabytes (TB) o petabytes (PB) de información. Sin embargo, lo que se considera "grande" depende de la infraestructura disponible. Para algunas empresas, un par de gigabytes podría ser manejado sin problemas, mientras que para otras eso podría ser considerado pequeño. 2.
