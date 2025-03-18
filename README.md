@@ -24,6 +24,9 @@ Python tiene una amplia gama de librerías para cubrir diversas necesidades, des
 - **Django:** Un framework web de alto nivel que sigue el patrón de diseño MVC (Modelo-Vista-Controlador) para crear aplicaciones web rápidamente.
 - **FastAPI:** Framework moderno para crear APIs RESTful muy rápido, ideal para microservicios y alta performance.
 
+
+
+
 #### **Para manejo de bases de datos:**
 - **SQLAlchemy:** Un ORM (Object Relational Mapper) que permite interactuar con bases de datos relacionales como MySQL, PostgreSQL, SQLite, etc., de manera sencilla y eficiente.
 - **Peewee:** Otro ORM, más ligero que SQLAlchemy, para interactuar con bases de datos SQL.
@@ -387,4 +390,11 @@ La salida será:
 - **Archivo no encontrado**: Si Pandas no puede encontrar el archivo, asegúrate de que la ruta sea correcta. Puedes usar rutas absolutas o relativas, dependiendo de dónde se encuentre el archivo.
 - **Delimitador incorrecto**: Si tu archivo CSV no usa comas como delimitador, asegúrate de especificar el delimitador adecuado (por ejemplo, `sep=";"` para un archivo con punto y coma como separador).
 
+Actividad 2:
+
+.Mostrar las primeras 10 filas
+.Mostrar las primeras 20 filas
+
+actividad 3:
+.Mostrar solamente la primer columna de nombres y las 100 primeras filas
 
