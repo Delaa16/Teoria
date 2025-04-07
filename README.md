@@ -398,3 +398,10 @@ Actividad 2:
 actividad 3:
 .Mostrar solamente la primer columna de nombres y las 100 primeras filas
 
+
+
+
+actividad 7/04/25
+
+
+abrir el cs - mostrar la columna gender y max score- mostrar la cantidad de columnas y filas que tiene - mostrar las ultimas 15 lineas - mostrar la media- mostrar los tipode de datos de cada columna- importar libreria a pandas
